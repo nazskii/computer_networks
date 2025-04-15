@@ -10,5 +10,8 @@ h1 {
 p {
     font-family: Verdana;
     color: white;
-font-size: 40;
+}
+
+table {
+    align-content: center;
 }
