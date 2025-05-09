@@ -1,11 +1,8 @@
-body {
-background-color:grey;    
-}
+
 
 h1 {
     color:white;
     text-align: center;
-    background-color: blue;
 }
 
 p {
@@ -25,5 +22,4 @@ table {
 h3 {
     color:white;
     text-align: center;
-    background-color: blue;
 }
