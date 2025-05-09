@@ -2,10 +2,12 @@
 
 h1 {
     text-align: center;
+    color: black;
 }
 
 p {
     font-family: Verdana;
+    color: black;
 }
 
 table {
@@ -18,6 +20,6 @@ table {
 }
 
 h3 {
-    color:white;
+    color:black;
     text-align: center;
 }
